@@ -254,6 +254,9 @@ ul li a:hover{
     .menu{
         display: none;
     }
+    header{
+        height: 115px;
+    }
     .menu-responsive{
         display: block;
         height: 115px;
